@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aryan Basudev Sahoo
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning MERN Stack but will not be limited to it. 
-- 👩🏻‍💻 I am currently working on my side projects and am open to internship opportunities.
+- 🌱 I’m currently learning MERN Stack and exploring WEB3. 
 - 📫 Email : aryanbasudev1@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
