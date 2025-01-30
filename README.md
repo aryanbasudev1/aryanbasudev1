@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Basudev Sahoo
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning MERN Stack and exploring WEB3. 
+- 🌱 I’m currently learning to build scalable apps using Spring Boot. 
 - 📫 Email : aryanbasudev1@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
